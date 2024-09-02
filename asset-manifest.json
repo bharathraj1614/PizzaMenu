@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bharathraj1614/PizzaMenu/static/css/main.a6b6c31b.css",
+    "main.js": "/bharathraj1614/PizzaMenu/static/js/main.cc78d362.js",
+    "index.html": "/bharathraj1614/PizzaMenu/index.html",
+    "main.a6b6c31b.css.map": "/bharathraj1614/PizzaMenu/static/css/main.a6b6c31b.css.map",
+    "main.cc78d362.js.map": "/bharathraj1614/PizzaMenu/static/js/main.cc78d362.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6b6c31b.css",
+    "static/js/main.cc78d362.js"
+  ]
+}
