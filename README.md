@@ -5,14 +5,13 @@ A dynamic and interactive web application showcasing a variety of pizzas, built 
 🔗 [PizzaMenu Live](https://bharathraj1614.github.io/PizzaMenu/)
 
 ## 📖 Table of Contents
-- [Project Overview](#project-overview)  
-- [Features](#features)  
-- [Technologies Used](#technologies-used)  
-- [Getting Started](#getting-started)  
-- [Available Scripts](#available-scripts)  
-- [Project Structure](#project-structure)  
-- [Contributing](#contributing)  
-- [License](#license)  
+- [Project Overview](#-project-overview)  
+- [Features](#-features)  
+- [Technologies Used](#%EF%B8%8F-technologies-used)  
+- [Getting Started](#-getting-started)  
+- [Available Scripts](#-available-scripts)  
+- [Project Structure](#-project-structure)  
+- [Contributing](#-contributing)   
 
 ## 🚀 Project Overview
 PizzaMenu is a React.js-based application that displays a curated list of pizzas with names, descriptions, and images. This project was built as part of my journey to learning React.js and improving my frontend development skills.
