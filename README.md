@@ -19,7 +19,7 @@ PizzaMenu is a React.js-based application that displays a curated list of pizzas
 
 **✨ Features**
 ✔️ Pizza List Display – Showcases various pizzas with images and details.
-✔️ Responsive Design – Optimized for different screen sizes.
+✔️ Responsive Design – Optimized for different screen sizes. 
 ✔️ Component-Based Architecture – Uses reusable React components.
 ✔️ Fast & Interactive UI – Provides a smooth user experience.
 
