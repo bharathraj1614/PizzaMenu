@@ -47,7 +47,8 @@ npm install
 
 # Start the Development Server
 npm start
-Open http://localhost:3000 in the browser.
+
+#Open http://localhost:3000 in the browser.
 ```
 
 ## 📜 Available Scripts
